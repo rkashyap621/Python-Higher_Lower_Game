@@ -1,5 +1,5 @@
 import random
-import High_Low_Game_Data as data
+import Higher_Lower_Game_Data as data
 
 def select():
     """This function returns a randon personality data as a python dictionary from database"""
