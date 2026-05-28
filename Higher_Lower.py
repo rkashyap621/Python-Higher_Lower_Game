@@ -1,5 +1,5 @@
-import art
-import High_Low_Manager as game
+import Higher_Lower_ACII_Art as art
+import Higher_Lower_Game_Manager as game
 
 print(art.logo)
 current_score = 0
