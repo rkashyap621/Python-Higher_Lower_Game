@@ -1,4 +1,4 @@
-import Higher_Lower_ACII_Art as art
+import Higher_Lower_ASCII_Art as art
 import Higher_Lower_Game_Manager as game
 
 print(art.logo)
